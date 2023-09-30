@@ -1,1 +1,1 @@
-/Users/adityapatil/Hacker's\ Notes/Rust/rust_banner/target/release/rust_banner: /Users/adityapatil/Hacker's\ Notes/Rust/rust_banner/src/main.rs
+/Users/adityapatil/Projects/rust_banner/target/release/rust_banner: /Users/adityapatil/Projects/rust_banner/src/main.rs
